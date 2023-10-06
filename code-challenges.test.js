@@ -1,6 +1,6 @@
 // ASSESSMENT 5: JavaScript Coding Practical Questions with Jest
 
-const { array } = require("yargs")
+// const { array } = require("yargs")
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
